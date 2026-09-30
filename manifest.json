@@ -1,0 +1,46 @@
+{
+  "manifest_version": 2,
+  "name": "Rapport RGAA - dérivé Tanaguru Webext",
+  "short_name": "Rapport RGAA",
+  "version": "5.4.2",
+  "author": "Tanaguru contributors (extension originale) ; surcouche locale de rapport",
+  "description": "Extension locale non officielle dérivée de Tanaguru Webext RGAA4 sous licence MIT, ajoutant une surcouche de rapport lisible. Non affiliée ni distribuée par Tanaguru.",
+  "homepage_url": "https://addons.mozilla.org/firefox/addon/tanaguru-webext/",
+  "icons": {
+    "32": "ressources/images/icons/rgaa-report.svg",
+    "48": "ressources/images/icons/rgaa-report.svg",
+    "96": "ressources/images/icons/rgaa-report.svg"
+  },
+  "permissions": [
+    "<all_urls>",
+    "downloads",
+    "notifications"
+  ],
+  "browser_action": {
+    "browser_style": false,
+    "default_icon": {
+      "32": "ressources/images/icons/rgaa-report.svg"
+    },
+    "default_title": "Rapport RGAA - dérivé Tanaguru Webext",
+    "default_popup": "popup/tanaguru-popup.html",
+    "theme_icons": [
+      {
+        "light": "ressources/images/icons/rgaa-report.svg",
+        "dark": "ressources/images/icons/rgaa-report.svg",
+        "size": 32
+      }
+    ]
+  },
+  "background": {
+    "scripts": [
+      "ressources/scripts/background_scripts/background.js"
+    ]
+  },
+  "devtools_page": "devtools/tanaguru-devtools.html",
+  "default_locale": "fr",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "rgaa-report-tanaguru-derivative@example.local"
+    }
+  }
+}

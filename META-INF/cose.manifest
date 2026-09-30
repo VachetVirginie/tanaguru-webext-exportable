@@ -1,0 +1,377 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DxEuvRASHJ9PRBsbAwnv4xivXUc=
+SHA256-Digest: Iepr8pb8liJNcxjWgYZSbrP+14bx78VB8IsGYaZ28y0=
+
+Name: devtools/tanaguru-devtools.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Wbo2GA4No/PvcI0clv65qKGXauw=
+SHA256-Digest: Ky6Shq6Cgd3C0Iw8Sl+9egQcyNNyae8WDdhKlCsCet4=
+
+Name: devtools/tanaguru-devtools.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GLxo306ws5MudwFxaCy0zZIwHhY=
+SHA256-Digest: 9ocJi0cWjyG/TV2bEx4TwCoT/smeJ4qfs8OUPuom2qY=
+
+Name: devtools/panel/tanaguru-devtools-panel.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kvSjus1la28bu12LFd0tutlS6qo=
+SHA256-Digest: z9UBUi2Wythl4Uo3C/GLJz3WetU/1IEnrnb4NTXAaBc=
+
+Name: devtools/panel/tanaguru-devtools-panel.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: woXSh7+GYb9QT1BFo+g/QVUCmiE=
+SHA256-Digest: /bVW88KkbzPnGuipUUUi2QjZFcSKn69mywU+AZsMo48=
+
+Name: devtools/panel/tanaguru-devtools-style.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jks4ZafNZO82kHySSSt5IdhAd2E=
+SHA256-Digest: qOV9bIv98QvcQQkd9VfylwbGIzw8mq0RM2YO/I7b9wc=
+
+Name: devtools/panel/tanaguru-devtools-style.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NBg0S4uvevfp5dscLW93sir+wxE=
+SHA256-Digest: Esel4bmAx/UL9Mz4Og/zjaoFiqVfEQ4ieineVneNUcg=
+
+Name: devtools/panel/images/about.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: BcmeOzJTWkYYphSlSRtQmv7dVm8=
+SHA256-Digest: kmI5KAzcbGtvdOcrb9MzS6LxkfGRdtCHyLARscZtHm4=
+
+Name: devtools/panel/images/about_hover.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zMZQvjR+niJMIlcBxLQsn+irCzw=
+SHA256-Digest: GiyE6+q4cRrLSZ+ms+gmfwbgEuSWm1Enkb//gPQNs78=
+
+Name: devtools/panel/images/arrow.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: geEOmt6+lIfeNXu1QIbcsTGZ754=
+SHA256-Digest: qW65A4/0yoheWwgUpFsQsUJ+WcyCwoqEyjCq32szknA=
+
+Name: devtools/panel/images/bg-img.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kITQfX5RyjR2fCqkqG5SRR9J6do=
+SHA256-Digest: 21K4I8TjQuL8Y1XM/efZkvzbWLBiNxpVpWtEPScAL00=
+
+Name: devtools/panel/images/inspect.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Z0pWH2LdEm5HT2V5LSsqunojylg=
+SHA256-Digest: 702Vw1Q5p54l+ntG9gUXyfUauI/yFdlrgGEr4C8C5qA=
+
+Name: devtools/panel/images/inspect_disabled.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TiC+NMHzNOQhdF9mXJkiwH9t91o=
+SHA256-Digest: acIl7PtpIF5q309/8FxCDBAfTu9qaNP6TAX0N9VQw5U=
+
+Name: devtools/panel/images/inspect_hover.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: veNqnSEItavFTperGmEqNf8PHsk=
+SHA256-Digest: TSEQ51sNWKxTXEy1uDMPuOD39vdwKajvQWWreNs+Nik=
+
+Name: devtools/panel/images/keyboard.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5F+HM2jiIEvfuRAObT1cm4w8gpA=
+SHA256-Digest: imQKe16j0AMXr7qMfLtpFIaSScZR0zodMl3OoBvQvtE=
+
+Name: devtools/panel/images/loader.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: xI7Oo6DD+3H5E5fyQrCU1gca8sU=
+SHA256-Digest: y+mPGKxcWHh8lD1ZWiPEDcNooXWeQVkrPI6RXamq6rg=
+
+Name: devtools/panel/images/reader.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wEtOfTgchiA8Pu/3DpPewIDpS+s=
+SHA256-Digest: MNK+/GFIKxg1WeAJ7F+JvH5v00FyhxYbiBhD1K/ktmI=
+
+Name: devtools/panel/images/see.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /PhDsHxKLQqlTNNxZMaVjio5Ym0=
+SHA256-Digest: cFS3SdahdHLr5winjCrQolCRYdcLg3GAhfdl1BBEXAc=
+
+Name: devtools/panel/images/see_disabled.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: KzH6DmjKqxrQxF+fj3l5qwc1Ito=
+SHA256-Digest: qRjH8rVbDtUQptTCgUddWubedHzDM3izzeX2NBZdklY=
+
+Name: devtools/panel/images/see_hover.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Q8B+3z5y1ZUxQ3hrorKytOfEBZU=
+SHA256-Digest: fy8xLllpomRfsCQ87XsbTa5Ly5ZG0qIdgp5+q6/R1yk=
+
+Name: devtools/panel/scss/styles.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mKuTlpPtRw+8Ri87qupPqizpS5k=
+SHA256-Digest: JjH776eMMIVPLqo77wChujaDqzUBIZ9H9UDy4O4d3WA=
+
+Name: devtools/panel/scss/base/_all-base.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sipx3EfY4aCD76rUfgijcpYJH6Q=
+SHA256-Digest: O/ncLrjRjGCjlHDvcK/fAz9typvYsXJ6PONv3oNPKLg=
+
+Name: devtools/panel/scss/base/_base.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: juSZqA6t3csSK1aEe+XYMjhWKbE=
+SHA256-Digest: BWNrTmeHWpW/sSrEvpe3RChEGo7RtYqPjQOFf8ps+3w=
+
+Name: devtools/panel/scss/base/_colors.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: P5lXQ3XKpJdCNRaMV783mgpfRAA=
+SHA256-Digest: 7BBH55Nyn7ONGtJo/DaA8bWR4UOhIUyBY4qdjvT/SnM=
+
+Name: devtools/panel/scss/base/_fonts.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XyYLk+XwltVn8rhoJVyap0s0CKg=
+SHA256-Digest: q0rZzpXVxFSnlOg6en/dB0+gYFCBQdIzqKs+xFyh2oQ=
+
+Name: devtools/panel/scss/base/_typos.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sBdCNdqHHTkB/qu09t4AG2v791U=
+SHA256-Digest: 3rdXNrobkt6jeQChY74glVEAnL47aZFWjr54fE4qiDE=
+
+Name: devtools/panel/scss/base/_variables.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+SHA256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: devtools/panel/scss/components/_accessibleName.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: j157vPszit580SnMLABw1k8s/qo=
+SHA256-Digest: 1pa5Lhlz51WtmgIYs9v3Gq9hPuLR25FS5NUVqmEkrtk=
+
+Name: devtools/panel/scss/components/_all-components.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: fAKKxdCHkRXjAT94YYLlidE02XA=
+SHA256-Digest: Yg/KcDZ28sHPjYEUtwJ6Ysbj7VEDOvUqLRTqXz5GpJk=
+
+Name: devtools/panel/scss/components/_beforetable.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: OEeXcoysuiq+1pc+ik6nsqkhx1o=
+SHA256-Digest: Pu2aK63ehaBdFJhPHbeOrEE+8yOxIJLQtKxXk1MMHLc=
+
+Name: devtools/panel/scss/components/_button.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2AIkt77R1/X/uhf07IXAGVQx2Nw=
+SHA256-Digest: 24Ot6MSlMCkAzHnlF6UtT0MlvvODSrWU54uMmL6tIFw=
+
+Name: devtools/panel/scss/components/_code.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pa3yQFlZtlxDLwbTiUMfVIk6n00=
+SHA256-Digest: mVCUBLijmtwQZZIxih3h2JKyvUWJIwJ99g+EOq184BI=
+
+Name: devtools/panel/scss/components/_filter.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: m4g94iJUg5lqsJJsB+xnV8iX4uU=
+SHA256-Digest: VJlPI+Au0Dh+Sw4ekPCAKHTHUw1UsyNNDlNlYD93xs0=
+
+Name: devtools/panel/scss/components/_loading.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YxZu5C5r1I9pt3/EZMg/LO0P3ms=
+SHA256-Digest: ZTFrj6iRdTZtGT2zGpBEndqSzI1JiOXG6O6XQfZiB3g=
+
+Name: devtools/panel/scss/components/_switch.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IG4ZHTWITus+TONRIFrlNOCo5VY=
+SHA256-Digest: aA5QSVg6ClPI0otuAAMm0+9aBsHJZZGX5CxCeOjmEx4=
+
+Name: devtools/panel/scss/components/_table.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1Yo+xlsP0LkKGGGYd/CeyUVS6w0=
+SHA256-Digest: M2tDr7VKcuv8Xn41uTgY91d2/nn2QC6UxIdrrHgf+2s=
+
+Name: devtools/panel/scss/components/_tablist.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: M7/eyHX+Gqrt/tQnrrDF7dBWFgA=
+SHA256-Digest: aL0Vs1zIs+YYr23gFvKMyRqEM4S5qG4/3zrR4oNcBu0=
+
+Name: devtools/panel/scss/panels/_all-panels.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: FJhFiLPpB/X14dAV3R8dvIDD25Q=
+SHA256-Digest: EuAWClNZvc0ZZcQp42FG456LZYxChibGw0TBDRiAZB4=
+
+Name: devtools/panel/scss/panels/_dashboard.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /6hywbtRvPDgnZW75S4tSDoIqYg=
+SHA256-Digest: PzO8aV9CthmmVj9Rx8EtgPWGczCtGctNWEXkxCkmyQo=
+
+Name: devtools/panel/scss/panels/_export.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: BJYatGGZwg/0oFnDZ+zf718fKFY=
+SHA256-Digest: AYvS6+9vbulk/J5wShAZCGDaF//t0om8U1NeZxxXIh8=
+
+Name: devtools/panel/scss/panels/_headingsHierarchy.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QE2OCd4bZK3uGUNYAfcls7ohM2A=
+SHA256-Digest: Z5SK3NbuJaFRvCJTglqQHUGV43SXn+tCTBfG8kW/eGA=
+
+Name: devtools/panel/scss/panels/_launch.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: CmYzD46g5BmUjITF4AqTXqKBHbA=
+SHA256-Digest: HU0L79MY0wiKbKyBliPHLryU9dWITlPclJBDlzPx7Yo=
+
+Name: devtools/panel/scss/panels/_navigation.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oEwFrcyEk+3oT8AndkW8Ra3XMEI=
+SHA256-Digest: VFT38fPpJYsDOvkiEqojq+RpS514N0FUMe17rzxtyjQ=
+
+Name: devtools/panel/scss/panels/_popin.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: KV7CLISjdskfRhy2UgqZ1xjBf3o=
+SHA256-Digest: v+i67mOL2ZXYz6IMY/jHtAMtksgB5PBn4Gm+0c1RZic=
+
+Name: devtools/panel/scss/panels/_results-contrast.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Id/ONB9UAKrQlLwB5egc5IxomAw=
+SHA256-Digest: nITsqB5VZCnKvyOAMhfW5MR0XV3CRatWxZRJg/XZa+4=
+
+Name: devtools/panel/scss/panels/_results.scss
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gz/XuFKic03TAZrjxFyhYR8I3lU=
+SHA256-Digest: GOseIn2/72OEpBkZDa4qPMmh0yUbaL0pEV0Lt8PH2X4=
+
+Name: popup/tanaguru-popup.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gJQw/f0bykF3oX3daU8FfcdHjMs=
+SHA256-Digest: dVpw+lgfkJqIoY0b57j0JLMCRDN1Pk4NRa1476zaU3Y=
+
+Name: popup/tanaguru-popup.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IynWQFjUVrhidk3dQc+Ocqhpbgs=
+SHA256-Digest: c6smNeiq9eDhp4mV89mBLjKiSCc6NyAchWV584/l/30=
+
+Name: popup/tanaguru-popup.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jBQ2bMLK+CXFaL2dBaF26plLIYQ=
+SHA256-Digest: OKUSjlymUjxy/mbS9kHCvVJQ4zlLBjSnk2J00LPl+0Q=
+
+Name: ressources/fonts/fontawesome-webfont.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2YDCzoc9xDr0YNTVctRBMESZ9AA=
+SHA256-Digest: e/yrbbmdXPvxcFygU23ceFhUMsxfpBu9etDwCQM7KXk=
+
+Name: ressources/fonts/fontawesome-webfont.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: tUg7Efi6IT5zO1uK+ZJ6BP7JlvY=
+SHA256-Digest: /DeCMvna1QCJCqngvdAwpT0vMX1Rc5OjuRQAtN3OTHw=
+
+Name: ressources/fonts/fontawesome-webfont.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: E7HqtlqYPHpzvHmXxHnWaUP3xss=
+SHA256-Digest: qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
+
+Name: ressources/fonts/fontawesome-webfont.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: KLeCJAs+dtuCThLAJ1SpcxoWdSc=
+SHA256-Digest: ugxZ3rVFD1y0Gz+TYJ7i0NmVQVh33foiPoqKdTNHTwc=
+
+Name: ressources/fonts/fontawesome-webfont.woff2
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1vSMun0Hb7by/Wupk6dbncHsvww=
+SHA256-Digest: Kt78vAQefRj88tQXh53FoJmXqmTWdbejxLbOM9oT8/4=
+
+Name: ressources/fonts/montserrat-bold-webfont.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +tafZ0UX47ufg6x6ZZCQ2sjaoZk=
+SHA256-Digest: 6BaG7k25tltMqhdXXeRxnvUX7aQYavCqkCNUOTMC9aU=
+
+Name: ressources/fonts/montserrat-bold-webfont.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4SQAqtj4nZENsM/azWz5y9L08Ms=
+SHA256-Digest: MccvUTSnHmKAhby3QrPJE0ezf14vBet3UHkLdbCLQbE=
+
+Name: ressources/fonts/montserrat-bold-webfont.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: k9NrtZyo8iv6cP6InZoag0gytcE=
+SHA256-Digest: LBjw7hotEHLcDOnFPViv+/bGGFiYPl6JK3eraFnxoGU=
+
+Name: ressources/fonts/montserrat-bold-webfont.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QVaKpX9PutfI0JoQNuQAvXqcBDQ=
+SHA256-Digest: OhKAtmHvAJbtYVO73sbkXZYo8pqmIfaRJ7vilSpKZhk=
+
+Name: ressources/fonts/montserrat-regular-webfont.eot
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: elC7OfjB0WAeepgQoRsB3kNIIWo=
+SHA256-Digest: H828IlsDGC7CYKsw/bE0WXBEiln81B1E1eS0en1qSg8=
+
+Name: ressources/fonts/montserrat-regular-webfont.svg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4hE6UyZrA6bRde4yf2bzolGn/Ao=
+SHA256-Digest: MpLNO7PlbNffSKaM2+IGosIERTgg5LSlUXt00K7PS2A=
+
+Name: ressources/fonts/montserrat-regular-webfont.ttf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: X8l9yEIKF7Qzoj9MOWCoPZcQti0=
+SHA256-Digest: cQcZqhcs4K2aKpZglVQxqFebFQASakM9KMN5VtuEeMY=
+
+Name: ressources/fonts/montserrat-regular-webfont.woff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QL6AbJ7/A0LjcFFB7YtUmhj3J/c=
+SHA256-Digest: oSgntON7lTwiMRyn069DP3ImzK8QlNBbSuH1TMH16eY=
+
+Name: ressources/images/tanaguru.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +qHud6PIESzdMIYVI5qnhU44glw=
+SHA256-Digest: MthSpsIJuDVgFEPr4NfOoGYRZtlCZfFKppViPPQ+jnA=
+
+Name: ressources/images/icons/tanaguru-32-dark.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1I3MWHB4511o8KhD6bSSTXYQgMQ=
+SHA256-Digest: zljcaWeyjUHqzAHAbb7go9jil9WrH7RnlLsDdw61xcA=
+
+Name: ressources/images/icons/tanaguru-32-light.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +2qHKvXDzc4uc/2CCYS52A+8vxY=
+SHA256-Digest: WbOys9PDtcCfUbOwRvDMm0H9x8FEmy5E8fMBGipqN9c=
+
+Name: ressources/images/icons/tanaguru-48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6oHZC5h18Ux91ODjYl0qrIOBF10=
+SHA256-Digest: fLp55Wp6ffyHR8q4YaHj0zyMiZql04+lH36s6pYVFPQ=
+
+Name: ressources/images/icons/tanaguru-96.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mL8Wq81w2tzjMSbUndLFoBwYFEM=
+SHA256-Digest: rqwwUbToQ15neoFdrorw73Qal2wV8xKBvAFaNXQui3Y=
+
+Name: ressources/scripts/highlight.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZfLW+aaygseNlgrj3SkGtuAcYsY=
+SHA256-Digest: Idayk9sgEDRUnD7lrFc2CVhOLQiOpczHw61VosUzONU=
+
+Name: ressources/scripts/obsDOM.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WuKQl/Idy9fpydXNo48kUfqxFIU=
+SHA256-Digest: cy40ccH9vROo4M/Bt5+zHXd6xN95YS0K0h7b0NQYuCo=
+
+Name: ressources/scripts/tabOrder.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Rb7Qq2clijseJ1hiBGSOfI6FhLA=
+SHA256-Digest: 9lo9IKQwJBA2WdMlRSn1OjgN1lYoc910zp0Us/RFaa0=
+
+Name: ressources/scripts/background_scripts/background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: afGfdnISAtZpXoUkj3xXzeaW9Wg=
+SHA256-Digest: 1xD6aU8IiFiGaic2xo16agSGlxAClDq+Q2o+604lo5w=
+
+Name: ressources/scripts/tests/tests.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EsOKNCP/YzvXK9CEtgvOExImT14=
+SHA256-Digest: 5DYyHCkDIRD5h+Mx1X/Fo51VO4y0BcUeAfLUsc8v61g=
+
+Name: ressources/styles/highlight.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wgENIwB68jszvB3umxd4G1lYKyw=
+SHA256-Digest: RTZ7ovrERq4Iswm7eg3KUZhoNDWKphJq3IiefxL3uEs=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2sipY/4caje6SlUPbLZnikDRXAI=
+SHA256-Digest: TwBRFD1GOfFk68jS5fScg/oXRsULNR/FC+RhFpLjptY=
+
+Name: _locales/fr/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: i45kRSqURvjAhq3B5wmZHwEj4a0=
+SHA256-Digest: bDygD0XV8efcyrSzwgjj6jpyuArhI5AZmGmV4clugfw=
+

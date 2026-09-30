@@ -1,0 +1,8 @@
+[data-tng-highlight="true"] {
+	border: 5px red solid !important;
+}
+
+[data-tng-nohl="true"] {
+	opacity: 0.3 !important;
+}
+
