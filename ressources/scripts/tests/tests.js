@@ -3913,6 +3913,14 @@ function getDuplicateID() {
         return result;
     }
 
+    function resolveLastPost() {
+        let node = structure;
+        for (let i = 0; i < lastLvl.length; i++) {
+            node = node[lastLvl[i]];
+        }
+        return node;
+    }
+
     for(let i = 0; i < collection.length; i++) {
         let previousLevel = collection[i-1] ? (!collection[i-1].hasAttribute('role') ? collection[i-1].tagName.toLowerCase().split('h')[1] : collection[i-1].getAttribute('aria-level')) : null;
         let currentlevel = !collection[i].hasAttribute('role') ? collection[i].tagName.toLowerCase().split('h')[1] : collection[i].getAttribute('aria-level');
@@ -3931,16 +3939,14 @@ function getDuplicateID() {
                     for(let x = 0; x < previousLevel - currentlevel; x++) {
                         lastLvl.pop();
                     }
-                    let key = "["+lastLvl.join('][')+"]";
-                    lastPost = eval("structure"+key);
+                    lastPost = resolveLastPost();
                     lastPost.push(element);
                 }
                 else if(lastLvl.length > 1 && currentlevel > 1) {
                     var eureka = false;
                     for(let x = 0; x < lastLvl.length; x++) {
                         lastLvl.pop();
-                        let key = "["+lastLvl.join('][')+"]";
-                        lastPost = eval("structure"+key);
+                        lastPost = resolveLastPost();
 
                         if(parseInt(lastPost[0].level) === parseInt(currentlevel)) {
                             lastPost.push(element);

@@ -5,7 +5,7 @@
   "version": "5.4.2",
   "author": "Tanaguru contributors (extension originale) ; surcouche locale de rapport",
   "description": "Extension locale non officielle dérivée de Tanaguru Webext RGAA4 sous licence MIT, ajoutant une surcouche de rapport lisible. Non affiliée ni distribuée par Tanaguru.",
-  "homepage_url": "https://addons.mozilla.org/firefox/addon/tanaguru-webext/",
+  "homepage_url": "https://github.com/VachetVirginie/tanaguru-webext-exportable",
   "icons": {
     "32": "ressources/images/icons/rgaa-report.svg",
     "48": "ressources/images/icons/rgaa-report.svg",
@@ -40,7 +40,10 @@
   "default_locale": "fr",
   "browser_specific_settings": {
     "gecko": {
-      "id": "rgaa-report-tanaguru-derivative@example.local"
+      "id": "rgaa-report@vachetvirginie.github.io",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   }
 }
